@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "mongoose": "^6.8.3",
+    "nodemon": "^2.0.20"
+  },
+  "name": "Books",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Eric Okyere",
+  "license": "MIT",
+  "scripts": {
+    "start":"nodemon ."
+  }
+}
